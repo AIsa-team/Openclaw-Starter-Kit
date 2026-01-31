@@ -1,4 +1,4 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# 🦞 OpenClaw — Personal AI Assistant 🚀 Powered by AIsa - Fixes 429 Errors & Rate Limits automatically.
 
 <p align="center">
     <picture>
